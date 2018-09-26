@@ -22,3 +22,4 @@ C:\Users\i844796\IdeaProjects\db-view>python get_db_connection.py dev
 ```
 It will print in the console the values for creating the connection.
 
+PS: You will need Python for that =)
